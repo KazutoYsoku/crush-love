@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Vk oiii chk có điều muốn hỏi. </br> Vk cóa nhớ chk hong?",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Vk trả lời thật lòng nhó. Nếu vk hong thật lòng anh sẽ cắn vk óa",
+  buttonYes: "Cóa",
+  buttonNo: "Hok",
+  titleModar: "Yêu vk",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Chk cũm nhớ vk nhắm. </br> Vk bít hong, vk là một cô gái rất đáng iu dễ huông, đã dị còn xinh đẹp học giỏi nũa, tròi oi ta nói mê dì au. Vk chính là niềm hạnh phúc cụa anh. </br> Cô công chúa đáng iu nhốc nhếch cụa anh hay nàm bín quó nò. Nàm bín dì cũm đụt miễn nà hong nàm bín iu anh, đụt hong hỏ? </br> Love you <3 LE THI QUYNH TRUC",
 };
